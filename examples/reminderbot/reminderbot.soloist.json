@@ -1,0 +1,308 @@
+[
+  {
+    "history": [
+      "user : Please, remind me to call vova"
+    ],
+    "belief": "belief : name = vova",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : Forget about the reminder"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_forget_reminders"
+  },
+  {
+    "history": [
+      "user : I must not forget to call juste bieber"
+    ],
+    "belief": "belief : name = juste bieber",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : do not remind me!"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_forget_reminders"
+  },
+  {
+    "history": [
+      "user : do not remind me"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_forget_reminders"
+  },
+  {
+    "history": [
+      "user : hello"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : later I have to call Alan"
+    ],
+    "belief": "belief : name = Alan",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : ciao"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : Bye"
+  },
+  {
+    "history": [
+      "user : forget about it"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_forget_reminders"
+  },
+  {
+    "history": [
+      "user : remind me to call Susan"
+    ],
+    "belief": "belief : name = Susan",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : I must not forget to call Daksh"
+    ],
+    "belief": "belief : name = Daksh",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : see ya"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : Bye"
+  },
+  {
+    "history": [
+      "user : remind me to call Lis"
+    ],
+    "belief": "belief : name = Lis",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : Forget reminding me!"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_forget_reminders"
+  },
+  {
+    "history": [
+      "user : later I have to call Alex"
+    ],
+    "belief": "belief : name = Alex",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : "
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : "
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : Bye"
+  },
+  {
+    "history": [
+      "user : please remind me to call tanja"
+    ],
+    "belief": "belief : name = tanja",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : bye"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : Bye"
+  },
+  {
+    "history": [
+      "user : "
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_forget_reminders"
+  },
+  {
+    "history": [
+      "user : remind me to call John"
+    ],
+    "belief": "belief : name = John",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : see you"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : Bye"
+  },
+  {
+    "history": [
+      "user : good morning"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : I must not forget to call santa"
+    ],
+    "belief": "belief : name = santa",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : "
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : good evening"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : hey"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : hey there"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : don't remind me!"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_forget_reminders"
+  },
+  {
+    "history": [
+      "user : Forget reminding me"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_forget_reminders"
+  },
+  {
+    "history": [
+      "user : later I have to call Jessie"
+    ],
+    "belief": "belief : name = Jessie",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : remind me to call Albert"
+    ],
+    "belief": "belief : name = Albert",
+    "kb": "",
+    "dp": "",
+    "reply": "system : action_set_reminder"
+  },
+  {
+    "history": [
+      "user : hi"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : good bye"
+    ],
+    "belief": "belief : ",
+    "kb": "",
+    "dp": "",
+    "reply": "system : Bye"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "history": [
+      "user : can you name some restaurants please?"
+    ],
+    "belief": "ds : object_type = restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : goodbye"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : good bye"
+  },
+  {
+    "history": [
+      "user : what restaurants can you recommend?"
+    ],
+    "belief": "ds : object_type = restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : are you a human?"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : bot_challenge"
+  },
+  {
+    "history": [
+      "user : list German restaurants"
+    ],
+    "belief": "ds : cuisine = German ; object_type = restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : bye"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : good bye"
+  },
+  {
+    "history": [
+      "user : what is with I due forni?"
+    ],
+    "belief": "ds : restaurant = I due forni",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : What about any Mexican restaurants?"
+    ],
+    "belief": "ds : cuisine = mexican ; object_type = restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : "
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : good bye"
+  },
+  {
+    "history": [
+      "user : what is the price range of the second hotel?"
+    ],
+    "belief": "ds : attribute = price-range ; mention = 2",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : "
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : am I talking to a human?"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : bot_challenge"
+  },
+  {
+    "history": [
+      "user : Do you also have any Vietnamese restaurants?"
+    ],
+    "belief": "ds : cuisine = Vietnamese ; object_type = restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : "
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : bot_challenge"
+  },
+  {
+    "history": [
+      "user : what cuisine do they have?"
+    ],
+    "belief": "ds : attribute = cuisine ; mention = they",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : good evening"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : Does the Hilton have a swimming pool?"
+    ],
+    "belief": "ds : hotel = Hilton ; attribute = swimming-pool",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : can you tell me the price range of that restaurant?"
+    ],
+    "belief": "ds : attribute = price-range ; mention = that restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : hello"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : "
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : name some hotels in Berlin"
+    ],
+    "belief": "ds : object_type = hotel ; city = Berlin",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : does Donath have outside seating?"
+    ],
+    "belief": "ds : restaurant = Donath ; attribute = outside-seating",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : can you show me some restaurant options"
+    ],
+    "belief": "ds : object_type = restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : see you later"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : good bye"
+  },
+  {
+    "history": [
+      "user : do you know what cuisine the last one has?"
+    ],
+    "belief": "ds : attribute = cuisine ; mention = LAST",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : hi"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : am I talking to a bot?"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : bot_challenge"
+  },
+  {
+    "history": [
+      "user : what is the star rating of Berlin Wall Hostel?"
+    ],
+    "belief": "ds : attribute = star-rating ; hotel = Berlin Wall Hostel",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : please list some hotels in Frankfurt am Main for me"
+    ],
+    "belief": "ds : object_type = hotel ; city = Frankfurt am Main",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : does the last one offer breakfast?"
+    ],
+    "belief": "ds : mention = LAST ; attribute = breakfast-included",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : does the second one include breakfast?"
+    ],
+    "belief": "ds : mention = 2 ; attribute = breakfast-included",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : what hotels do you know in Berlin?"
+    ],
+    "belief": "ds : object_type = hotel ; city = Berlin",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : do you have any mexican restaurants?"
+    ],
+    "belief": "ds : cuisine = mexican ; object_type = restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : do you know the price range of that one?"
+    ],
+    "belief": "ds : attribute = price-range ; mention = that one",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : list some restaurants"
+    ],
+    "belief": "ds : object_type = restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : hey there"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : does the first one have wifi?"
+    ],
+    "belief": "ds : mention = 1 ; attribute = free-wifi",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : what is the price range of Berlin Burrito Company?"
+    ],
+    "belief": "ds : attribute = price-range ; restaurant = Berlin Burrito Company",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : see you around"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : good bye"
+  },
+  {
+    "history": [
+      "user : good morning"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : are you a bot?"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : bot_challenge"
+  },
+  {
+    "history": [
+      "user : what are hotels in Berlin"
+    ],
+    "belief": "ds : object_type = hotel ; city = Berlin",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : what cuisine is it?"
+    ],
+    "belief": "ds : attribute = cuisine ; mention = it",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : what hotels can you recommend?"
+    ],
+    "belief": "ds : object_type = hotel",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : Do you also know some Italian restaurants?"
+    ],
+    "belief": "ds : cuisine = Italian ; object_type = restaurant",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : show me some hotels"
+    ],
+    "belief": "ds : object_type = hotel",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  },
+  {
+    "history": [
+      "user : hey"
+    ],
+    "belief": "ds : ",
+    "kb": "",
+    "reply": "system : What can I do for you?"
+  },
+  {
+    "history": [
+      "user : does the third one have a swimming pool?"
+    ],
+    "belief": "ds : mention = 3 ; attribute = swimming-pool",
+    "kb": "",
+    "reply": "system : action_query_knowledge_base"
+  }
+]
